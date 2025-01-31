@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Computer Vision!<br>🤝 I’m looking for help with NLP projects<br>🌱 I’m currently learning about NLP<br>💬 Ask me about image processing<br>⚡ Fun fact : I'm still looking for a job 
+🔭 I’m currently working on  Computer Vision!<br>🤝 I’m looking for help with NLP projects<br>🌱 I’m currently learning about NLP<br>💬 Ask me about image processing<br>
 
 
 ## 🌐 Socials:
